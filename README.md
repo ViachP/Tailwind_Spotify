@@ -1,2 +1,2 @@
 # Tailwind_Spotify
-![Work in Progress](https://i.ibb.co/wsT0cVz/work-in-progress-3.png)
+![Tailwind_Spotify](https://i.ibb.co/L5P1hvB/Spotify-img.png)
